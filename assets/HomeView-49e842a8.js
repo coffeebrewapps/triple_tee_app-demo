@@ -1,1 +1,0 @@
-import{_ as e,o as _,c}from"./index-c658bd47.js";const o={},t={class:"page-container"};function s(n,a){return _(),c("div",t," Good day! ")}const d=e(o,[["render",s],["__scopeId","data-v-3bec9050"]]);export{d as default};
