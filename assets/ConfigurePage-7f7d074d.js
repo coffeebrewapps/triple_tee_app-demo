@@ -1,0 +1,1 @@
+import{M as a}from"./MultiViewContainer-e910c56d.js";import{o as r,g as n}from"./index-934675e2.js";const u={__name:"ConfigurePage",setup(s){const e=[{name:"Configure Currencies",params:{}},{name:"Configure Sequences",params:{}},{name:"Configure Tags",params:{}},{name:"Configure System",params:{}}];return(o,m)=>(r(),n(a,{views:e}))}};export{u as default};
